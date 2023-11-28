@@ -5,6 +5,7 @@ fecha_nacimiento date(15)
 direccion varchar2(100)
 );
 
+
 create table Curso (
 id number primary key 
 nombre varchar2(40)
